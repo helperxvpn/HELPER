@@ -3,7 +3,7 @@
 ## Docker Image
 
 ```
-docker.io/helperxvpn/google-cloud-run-proxy
+docker.io/sahilbhattt/google-cloud-run-proxy
 ```
 
 ## Environment Variable Name
